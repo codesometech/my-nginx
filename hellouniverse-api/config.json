@@ -1,3 +1,4 @@
 {
-  "namespace":"universe"
+  "namespace":"universe",
+  "folder": "hellouniverse-api"
 }
