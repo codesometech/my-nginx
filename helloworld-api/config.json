@@ -1,3 +1,4 @@
 {
-  "namespace": "world"
+  "namespace": "world",
+  "folder": "helloworld-api"
 }
