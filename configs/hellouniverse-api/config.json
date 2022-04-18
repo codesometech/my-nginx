@@ -1,4 +1,6 @@
 {
     "namespace": "universe",
-    "repo": "https://github.com/codesometech/hellouniverse-api.git"
+    "repo": "https://github.com/codesometech/hellouniverse-api.git",
+    "path": "hellouniverse-api"
+    
 }
