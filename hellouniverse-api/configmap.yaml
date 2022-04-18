@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: index-html-configmap
+  namespace: universe
+data:
+  index.html: |
+    <html>
+    <h1>Hello Test! </h1>
+    </html
